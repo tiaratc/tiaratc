@@ -1,20 +1,18 @@
-# 👋 Welcome to My GitHub Profile! 🌟
+# 👋 Welcome to My GitHub Profile! 🌟🎵
 
-## 🎵 Tiara Cahyadi  
+## Tiara Cahyadi  
 **Student | Aspiring Data Analyst**  
 
 Hi there! I'm Tiara, a student at **Purwadhika Digital Technology School**, based in Jakarta, Indonesia.  
 I’m transitioning into the field of **Data Science and Machine Learning**, with a unique background in the music events and food industries.  
 
+This GitHub showcases projects I’ve developed during my studies—**I’m just three months into programming, so I’m learning as I go!** 😊
+
+I’d love to hear your feedback, advice, or opportunities for collaboration to support my growth in this exciting new field.
+
+When I’m not analyzing data or coding, I enjoy watching reality shows, exploring trends in sustainable food, and playing the piano 🎹.
+
 Feel free to connect, give feedback, or collaborate on my projects! 😊  
-
----
-
-## 🚀 About Me
-
-🌱 I’m currently learning **Data Science** and **Machine Learning**.  
-🎹 In my free time, I love playing the piano and exploring sustainable food trends.  
-🛠️ I’m currently working on **data analysis projects** as part of my study program.
 
 ---
 
@@ -39,9 +37,12 @@ _"Kindness is the answer to darkness."_ – Someone on The Internet
 
 ## 🎵 Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+“Help!” – The Beatles 🎶
+“Stuck in a Loop” – Tiara’s Machine Learning Journey 🔄
+“When will this code run without errors?” 😊
 
 ---
 
 Thank you for visiting my profile!  
+
 ✨ _Feel free to explore my repositories and connect._  

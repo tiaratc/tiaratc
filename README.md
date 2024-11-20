@@ -31,14 +31,16 @@ Feel free to connect, give feedback, or collaborate on my projects! 😊
 
 ## ✍️ Random Dev Quote
 
-_"Kindness is the answer to darkness."_ – Someone on The Internet  
+_"Kindness and good always win when the clock hits 0:00."_ – Someone on The Internet  
 
 ---
 
 ## 🎵 Now Playing
 
 “Help!” – The Beatles 🎶
+
 “Stuck in a Loop” – Tiara’s Machine Learning Journey 🔄
+
 “When will this code run without errors?” 😊
 
 ---

@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile! 🌟🎵
 
 ## Tiara Cahyadi  
-**Student | Aspiring Data Analyst**  
+**Data Analyst | Data Scientist**  
 
 Hi there! I'm Tiara, a student at **Purwadhika Digital Technology School**, based in Jakarta, Indonesia.  
 I’m transitioning into the field of **Data Science and Machine Learning**, with a unique background in the music events and food industries.  
